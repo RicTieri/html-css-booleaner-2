@@ -1,3 +1,7 @@
+*{
+  margin: 0 auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 header{
   background-image: url(../img/pattern.png);
@@ -6,6 +10,28 @@ header{
 }
 
 header img{
+  margin: 10px;
   padding-top: 40px;
   width: 200px;
+}
+
+main{
+  margin: 10px;
+}
+span{
+  display: block;
+}
+
+#writer, #date{
+  color: #b4b4b4;
+}
+
+.blue-print{
+  color: #30afe7;
+  display: inline;
+}
+
+#date{
+  font-size: 0.7rem;
+  padding-bottom: 20px;
 }
