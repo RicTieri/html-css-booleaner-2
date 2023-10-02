@@ -1,0 +1,11 @@
+
+header{
+  background-image: url(../img/pattern.png);
+  background-size: 20%;
+  background-color: #4ea0ff;
+}
+
+header img{
+  padding-top: 40px;
+  width: 200px;
+}
